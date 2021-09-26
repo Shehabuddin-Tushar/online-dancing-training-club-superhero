@@ -1,0 +1,39 @@
+.cart{
+   position: fixed;
+   background-color:#F5F5F6;
+   padding: 10px;
+   line-height: 30px;
+   border:2px solid rgb(112, 156, 112);
+   width: 380px;
+   border-radius: 10px;
+   height: 400px;
+   overflow: scroll;
+    
+}
+
+.cart h2{
+  font-size: 20px;
+  border-bottom: 1px solid lightgrey;
+  color:#000;
+  padding-bottom: 20px;
+}
+
+.cart h3{
+    font-size: 20px;
+    color:rgb(26, 23, 29)
+}
+.course-title{
+    border-top: 1px solid lightgrey;
+    margin-top: 10px;
+   
+    border-radius: 5px;
+    background-color: rgb(238, 216, 187);
+    height: 51px;
+    
+
+}
+.course-title img{
+  border-radius: 5px 0px 0px 5px;
+  width: 30%;
+}
+

@@ -1,0 +1,135 @@
+[
+    {
+        "id": "1dance",
+        "category": "classical",
+        "name": "Classical Ballet Classes",
+        "star": 5,
+        "img": "https://i.postimg.cc/MZ3SJGFz/pavan-gupta-Hzl-OHmbo-Sk-unsplash.jpg",
+        "instructorname":"Karisma",
+        "duration":"120hr",
+        "price": 2200
+        
+    },
+    {
+        "id": "2dance",
+        "category": "classical",
+        "name": "Romantic Ballet Classes",
+        "star": 4,
+        "img": "https://i.postimg.cc/V6jdHCRs/mimi-lalaa-l-Ckgo6myjq4-unsplash.jpg",
+        "instructorname":"Mr.pol",
+        "duration":"135hr",
+        "price": 3500
+        
+    },
+    {
+        "id": "3dance",
+        "category": "hippop",
+        "name": "hippop Ballet Classes",
+        "star": 4,
+        "img": "https://i.postimg.cc/9QK0mpgF/andre-hunter-p-I9w-V811qk-unsplash.jpg",
+        "instructorname":"Mr.Jhon",
+        "duration":"110hr",
+        "price": 3200
+        
+    },
+    {
+        "id": "4dance",
+        "category": "hippop",
+        "name": "Neohippop Ballet Classes",
+        "star": 5,
+        "img": "https://i.postimg.cc/28qfkfsh/sonia-sanmartin-no-NNvkqu-BZQ-unsplash.jpg",
+        "instructorname":"Rocky",
+        "duration":"150hr",
+        "price": 4000
+        
+    },
+    {
+        "id": "5dance",
+        "category": "Romantic",
+        "name": "Romanticjoys Ballet Classes",
+        "star": 3,
+        "img": "https://i.postimg.cc/j2LBSzFt/jusdevoyage-Eyw-Dk-Wj5x-Lk-unsplash.jpg",
+        "instructorname":"vicky & Emma",
+        "duration":"100hr",
+        "price": 2500
+        
+    },
+    {
+        "id": "6dance",
+        "category": "classical",
+        "name": "western Ballet Classes",
+        "star": 4,
+        "img": "https://i.postimg.cc/nh8Nn9Yf/michael-afonso-n-ZU76q-Wy-T8-unsplash.jpg",
+        "instructorname":"Ammelia",
+        "duration":"165hr",
+        "price": 5200
+        
+    },
+    {
+        "id": "7dance",
+        "category": "Disco",
+        "name": "Contemporarystunt Ballet Classes",
+        "star": 5,
+        "img": "https://i.postimg.cc/hvZgCDHP/alonso-reyes-gns6-Jdxu-A4-unsplash.jpg",
+        "instructorname":"Hrithik roshan",
+        "duration":"125hr",
+        "price": 5420
+        
+    },
+    {
+        "id": "8dance",
+        "category": "Disco",
+        "name": "Contemporaryloyel Ballet Classes",
+        "star": 2,
+        "img": "https://i.postimg.cc/mgCf9y2r/diego-rosa-Yyk4-Om-VJAy-E-unsplash.jpg",
+        "instructorname":"Tarrance",
+        "duration":"90hr",
+        "price": 3000
+        
+    },
+    {
+        "id": "9dance",
+        "category": "hippop",
+        "name": "Modernhippop Ballet Classes",
+        "star": 5,
+        "img": "https://i.postimg.cc/9QK0mpgF/andre-hunter-p-I9w-V811qk-unsplash.jpg",
+        "instructorname":"Remo Dsuja",
+        "duration":"130hr",
+        "price": 3300
+        
+    },
+    {
+        "id": "10dance",
+        "category": "classical",
+        "name": "Modern Ballet Classes",
+        "star": 5,
+        "img": "https://i.postimg.cc/025bcrJx/liel-anapolsky-92-Y-x-UOJRWA-unsplash.jpg",
+        "instructorname":"snigdha",
+        "duration":"100hr",
+        "price": 3800
+        
+    },
+    {
+        "id": "11dance",
+        "category": "classical",
+        "name": "FlyingContemporary Ballet Classes",
+        "star": 3,
+        "img": "https://i.postimg.cc/TYhTKbDy/blake-cheek-zw-SMv0j-Y-1o-unsplash.jpg",
+        "instructorname":"Rehana",
+        "duration":"185hr",
+        "price": 5220
+        
+    },
+    {
+        "id": "12dance",
+        "category": "classical",
+        "name": "NeoContemporary Ballet Classes",
+        "star": 4,
+        "img": "https://i.postimg.cc/nh8Nn9Yf/michael-afonso-n-ZU76q-Wy-T8-unsplash.jpg",
+        "instructorname":"Sophia",
+        "duration":"75hr",
+        "price": 2620
+        
+    }
+
+]
