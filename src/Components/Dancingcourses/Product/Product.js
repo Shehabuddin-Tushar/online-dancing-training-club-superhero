@@ -5,7 +5,7 @@ function Product(props) {
     const {name,category,img,price,star,instructorname,duration,id}=props.danceclass;
     return (
         
-              <div className="col-md-4">
+              <div className="col-lg-4 col-md-6 col-sm-6">
                 <div className="card singlecard">
                     <img src={img} alt="" height="300px"/>
                     <div className="card-body">

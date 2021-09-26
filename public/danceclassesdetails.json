@@ -2,7 +2,7 @@
     {
         "id": "1dance",
         "category": "classical",
-        "name": "Classical Ballet Classes",
+        "name": "Indian classical Ballet Classes",
         "star": 5,
         "img": "https://i.postimg.cc/MZ3SJGFz/pavan-gupta-Hzl-OHmbo-Sk-unsplash.jpg",
         "instructorname":"Karisma",
@@ -13,7 +13,7 @@
     {
         "id": "2dance",
         "category": "classical",
-        "name": "Romantic Ballet Classes",
+        "name": "Romantic couple Ballet Classes",
         "star": 4,
         "img": "https://i.postimg.cc/V6jdHCRs/mimi-lalaa-l-Ckgo6myjq4-unsplash.jpg",
         "instructorname":"Mr.pol",
@@ -24,7 +24,7 @@
     {
         "id": "3dance",
         "category": "hippop",
-        "name": "hippop Ballet Classes",
+        "name": "Hippop western Ballet Classes",
         "star": 4,
         "img": "https://i.postimg.cc/9QK0mpgF/andre-hunter-p-I9w-V811qk-unsplash.jpg",
         "instructorname":"Mr.Jhon",
@@ -35,7 +35,7 @@
     {
         "id": "4dance",
         "category": "hippop",
-        "name": "Neohippop Ballet Classes",
+        "name": "Neo hippop Ballet Classes",
         "star": 5,
         "img": "https://i.postimg.cc/28qfkfsh/sonia-sanmartin-no-NNvkqu-BZQ-unsplash.jpg",
         "instructorname":"Rocky",
@@ -46,7 +46,7 @@
     {
         "id": "5dance",
         "category": "Romantic",
-        "name": "Romanticjoys Ballet Classes",
+        "name": "Romantic enjoys Ballet Classes",
         "star": 3,
         "img": "https://i.postimg.cc/j2LBSzFt/jusdevoyage-Eyw-Dk-Wj5x-Lk-unsplash.jpg",
         "instructorname":"vicky & Emma",

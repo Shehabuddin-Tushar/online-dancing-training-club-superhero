@@ -31,7 +31,9 @@ function Dancecourse() {
         <div className="container-fluid dancewrapper">
              
           <div className="row">
-              <div className="col-md-9">
+          
+           <div style={{clear:"both"}}></div>
+              <div className="col-md-9 mb-3">
                   <div className="row gy-4">
                   {
                       danceclasses.map((danceclass)=>{
@@ -42,9 +44,11 @@ function Dancecourse() {
                   
                 
               </div>
-              <div className="col-md-3 mycartwrapper mr-3">
-                 <Cart allproducts={cart}/>
-              </div>
+              <div className="col-md-3 col-sm-12 mycartwrapper mr-3  ml-auto">
+                
+                     
+                <Cart allproducts={cart}/>
+           </div>
            
           </div>
          

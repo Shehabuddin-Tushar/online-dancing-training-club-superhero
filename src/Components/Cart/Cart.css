@@ -1,13 +1,13 @@
 .cart{
-   position: fixed;
    background-color:#F5F5F6;
    padding: 10px;
    line-height: 30px;
    border:2px solid rgb(112, 156, 112);
-   width: 380px;
    border-radius: 10px;
-   height: 400px;
+   height: 450px;
    overflow: scroll;
+   margin-right: 20px;
+   
     
 }
 
@@ -37,3 +37,14 @@
   width: 30%;
 }
 
+@media only screen and (min-width: 800px) {
+  .cart{
+    position: fixed;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .cart{
+     margin-right:0px;
+  }
+}
