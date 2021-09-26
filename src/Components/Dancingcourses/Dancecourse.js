@@ -43,10 +43,7 @@ function Dancecourse() {
                 
               </div>
               <div className="col-md-3 mycartwrapper mr-3">
-                 
-                     <Cart allproducts={cart}/>
-                 
-                    
+                 <Cart allproducts={cart}/>
               </div>
            
           </div>
